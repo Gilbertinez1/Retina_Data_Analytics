@@ -1,0 +1,12 @@
+{
+  "shell_port": 52531,
+  "iopub_port": 52043,
+  "stdin_port": 59025,
+  "control_port": 43961,
+  "hb_port": 48373,
+  "ip": "0.0.0.0",
+  "key": "bb7cc61a-f91b4f407a2b323f5389d042",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "pytorch-2-0"
+}

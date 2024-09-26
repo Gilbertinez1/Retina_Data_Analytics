@@ -1,0 +1,52 @@
+need,Education_level,Age,Occupation,Disease
+Assistive Device,University,1,Student,retinal dystophy
+Job,University,1,Employed,retinal dystophy
+Skills Training,University,1,Employed,retinal dystophy
+Assistive Device,University,1,Student,retinal dystophy
+Assistive Device,University,1,Student,Other
+Other,Unknown,1,Student,Other
+Skills Training,University,1,Student,retinal dystophy
+Assistive Device,University,1,Student,retinal dystophy
+Other,University,1,Student,Other
+Unknown,University,1,Other,Other
+Assistive Device,University,1,Student,Other
+Assistive Device,University,1,Student,glaucoma
+Assistive Device,University,1,Student,glaucoma
+Assistive Device,Unknown,2,Student,retinal dystophy
+Assistive Device,University,1,Employed,retinal dystophy
+Assistive Device,University,1,Student,retinal dystophy
+Assistive Device,University,1,Other,retinal dystophy
+Unknown,University,1,Student,Other
+Assistive Device,University,1,Student,Other
+Assistive Device,University,1,Student,Other
+Other,University,1,Student,Other
+Assistive Device,University,2,Student,glaucoma
+Assistive Device,University,1,Student,Other
+Assistive Device,University,1,Student,macular degeneration
+Assistive Device,University,1,Student,glaucoma
+Job,University,1,Student,Other
+Assistive Device,University,1,Student,Other
+Assistive Device,University,1,Student,Other
+Assistive Device,University,1,Student,macular degeneration
+Assistive Device,University,1,Student,Other
+Assistive Device,University,1,Student,macular degeneration
+Other,Tertiary,1,Student,macular degeneration
+Assistive Device,University,1,Student,Other
+Unknown,Unknown,1,Student,Other
+Assistive Device,University,1,Student,Other
+Other,University,1,Student,Other
+Assistive Device,University,1,Student,glaucoma
+Unknown,University,1,Student,Other
+Assistive Device,University,1,Student,glaucoma
+Assistive Device,University,1,Employed,retinal dystophy
+Assistive Device,University,1,Student,
+Assistive Device,University,1,Student,retinal dystophy
+Assistive Device,University,1,Student,retinal dystophy
+Assistive Device,Unknown,3,Unemployed,choromedia
+Assistive Device,Unknown,3,Employed,glaucoma
+Assistive Device,University,1,Unemployed,Other
+Other,Unknown,2,Student,macular degeneration
+Assistive Device,Tertiary,3,Employed,Other
+Assistive Device,University,1,Student,choromedia
+Assistive Device,University,1,Student,glaucoma
+Assistive Device,University,1,Student,macular degeneration

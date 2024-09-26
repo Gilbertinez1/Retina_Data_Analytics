@@ -1,0 +1,10 @@
+2024-09-24 20:50:04,189 DEBUG    root            Loaded Command Group: ['gcloud', 'projects']
+2024-09-24 20:50:04,196 DEBUG    root            Loaded Command Group: ['gcloud', 'projects', 'describe']
+2024-09-24 20:50:04,199 DEBUG    root            Running [gcloud.projects.describe] with arguments: [--format: "value(projectNumber)", PROJECT_ID_OR_NUMBER: "cloud-data-analysis-436618"]
+2024-09-24 20:50:04,245 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): cloudresourcemanager.googleapis.com:443
+2024-09-24 20:50:04,443 DEBUG    urllib3.connectionpool https://cloudresourcemanager.googleapis.com:443 "GET /v1/projects/cloud-data-analysis-436618?alt=json HTTP/1.1" 200 None
+2024-09-24 20:50:04,446 DEBUG    root            Chosen display Format:default value(projectNumber)
+2024-09-24 20:50:04,447 INFO     root            Display format: "default value(projectNumber)"
+2024-09-24 20:50:04,496 INFO     ___FILE_ONLY___ 51711795437
+
+2024-09-24 20:50:04,497 DEBUG    root            SDK update checks are disabled.

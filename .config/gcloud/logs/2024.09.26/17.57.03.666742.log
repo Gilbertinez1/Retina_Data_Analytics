@@ -1,0 +1,16 @@
+2024-09-26 17:57:03,778 DEBUG    root            Loaded Command Group: ['gcloud', 'config']
+2024-09-26 17:57:04,449 DEBUG    root            Loaded Command Group: ['gcloud', 'config', 'set']
+2024-09-26 17:57:04,452 DEBUG    root            Running [gcloud.config.set] with arguments: [SECTION/PROPERTY: "compute/region", VALUE: "europe-west4"]
+2024-09-26 17:57:04,812 DEBUG    google.auth.transport.requests Making request: GET http://192.168.10.5/computeMetadata/v1/instance/service-accounts/51711795437-compute@developer.gserviceaccount.com/?recursive=true
+2024-09-26 17:57:04,816 DEBUG    urllib3.connectionpool Starting new HTTP connection (1): 192.168.10.5:80
+2024-09-26 17:57:04,817 DEBUG    urllib3.connectionpool http://192.168.10.5:80 "GET /computeMetadata/v1/instance/service-accounts/51711795437-compute@developer.gserviceaccount.com/?recursive=true HTTP/1.1" 200 144
+2024-09-26 17:57:04,818 DEBUG    google.auth.transport.requests Making request: GET http://192.168.10.5/computeMetadata/v1/instance/service-accounts/51711795437-compute@developer.gserviceaccount.com/token
+2024-09-26 17:57:04,820 DEBUG    urllib3.connectionpool http://192.168.10.5:80 "GET /computeMetadata/v1/instance/service-accounts/51711795437-compute@developer.gserviceaccount.com/token HTTP/1.1" 200 1084
+2024-09-26 17:57:05,209 DEBUG    urllib3.connectionpool Starting new HTTPS connection (1): compute.googleapis.com:443
+2024-09-26 17:57:05,748 DEBUG    urllib3.connectionpool https://compute.googleapis.com:443 "GET /compute/v1/projects/cloud-data-analysis-436618/regions/europe-west4?alt=json HTTP/1.1" 200 None
+2024-09-26 17:57:05,759 WARNING  root            Property validation for compute/region was skipped.
+2024-09-26 17:57:05,761 INFO     ___FILE_ONLY___ Updated property [compute/region].
+
+2024-09-26 17:57:05,762 DEBUG    root            Chosen display Format:default
+2024-09-26 17:57:05,763 INFO     root            Display format: "default"
+2024-09-26 17:57:05,764 DEBUG    root            SDK update checks are disabled.

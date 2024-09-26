@@ -1,0 +1,9 @@
+[compute]
+region = europe-west4
+
+[core]
+project = cloud-data-analysis-436618
+
+[dataproc]
+region = europe-west4
+
